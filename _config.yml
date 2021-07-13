@@ -55,10 +55,20 @@ projects: true
 # add your projects here
 project-list:
     FamilyPilot:
-        name: XYZ
+        name: HabitPilot
         description: |
-            TODO
-        url: https://VolcanoUniversum.github.io/xyz/
+            Every great changes in our lives start with change of our Habits. The HabitPilot is Habit Tracker which will lead you to successful path in your progress and changes.
+
+            <h4>Features</h4>
+
+            <ul>
+                <li><strong>Unlimited</strong>: You are able to create unlimited amount of Habits without any restrictions.</li>
+                <li><strong>Synchronization</strong>: All your Habits and progresses are seamlessly synchronize across your devices.</li>
+                <li><strong>Free</strong>: Unlimited access to all features without any payment.</li>
+                <li><strong>Privacy</strong>: All your settings & data are stored securely on your devices. HabitPilot does not use third-party analytics or ads.</li>
+            </ul>
+
+        url: https://VolcanoUniversum.github.io/HabitPilot/
 
 
 # do you want to display the theme attribution? true or false
